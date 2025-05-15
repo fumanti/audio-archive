@@ -1,0 +1,13 @@
+{
+  "filename": "sound1.wav",
+  "title": "Ambiente Foresta",
+  "description": "Registrazione di uccelli nella foresta",
+  "duration": "00:01:23",
+  "format": "wav",
+  "tags": [
+    "natura",
+    "ambiente",
+    "uccelli"
+  ],
+  "type": "ambiente"
+}

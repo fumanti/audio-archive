@@ -1,0 +1,13 @@
+{
+  "filename": "sound2.mp3",
+  "title": "Città al mattino",
+  "description": "Suoni urbani di traffico e passi",
+  "duration": "00:00:45",
+  "format": "mp3",
+  "tags": [
+    "città",
+    "traffico",
+    "ambiente"
+  ],
+  "type": "ambiente"
+}
